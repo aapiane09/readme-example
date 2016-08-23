@@ -14,4 +14,14 @@ Here I created a quick demo to show a simple template of a well organized readme
 <li> HTML </li>
 <li> CSS </li>
 
+## Code I'm Proud Of
+
+```javascript
+  var catz = [];
+
+  function allTheCatz(input) {
+    catz.create();
+  };
+```
+
 ### Screen Shots (Optional)
