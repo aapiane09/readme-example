@@ -8,6 +8,8 @@
 
 Here I created a quick demo to show a simple template of a well organized readme. Feel free to fork / star / watch for your own personal use.
 
+See the published project at [github.com/sf-wdi-31/readme-example](https://github.com/sf-wdi-31/readme-example)!
+
 ## Technologies Used
 
 <li> jQuery </li>
